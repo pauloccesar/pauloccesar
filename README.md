@@ -3,7 +3,7 @@
 My name is Paulo Cesar. I Living in Divinópolis, Brazil.
 
 - 🔭 I’m currently working at <a href="https://abas.online/" target="_blank">Abas Online</a> as a Software Developer;
-- ⚡  Using MEAN Stack, most of the time: React Native, Angular,Node.js;
+- ⚡  Using MEAN Stack, most of the time: React Native, Angular, Node.js;
 - 🌱 I’m currently learning Typescript;
 
 ### You can find me at:
@@ -29,6 +29,7 @@ My name is Paulo Cesar. I Living in Divinópolis, Brazil.
 ##
   
 <div>   
+ 
  ![snake gif](https://github.com/pauloccesar/pauloccesar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
