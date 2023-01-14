@@ -3,7 +3,7 @@
 My name is Paulo Cesar. I Living in Divinópolis, Brazil.
 
 - 🔭 I’m currently working at <a href="https://www.nescara.com/site/" target="_blank">Nèscara</a> as a Software Developer;
-- ⚡  Using MEAN Stack, most of the time: React Native, Angular, Node.js;
+- ⚡  Using MEAN Stack, most of the time: React Native;
 - 🌱 I’m currently learning Typescript;
 
 ### You can find me at:
@@ -12,9 +12,9 @@ My name is Paulo Cesar. I Living in Divinópolis, Brazil.
  <a href="https://www.linkedin.com/in/paulo-cesar-01bbb814b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align="center">
-  <a href="https://github.com/pauloccesar">
+<!--   <a href="https://github.com/pauloccesar">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloccesar&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloccesar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloccesar&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
