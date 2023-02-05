@@ -26,10 +26,10 @@ My name is Paulo Cesar. I Living in Divinópolis, Brazil.
   <img align="center" alt="Paulo-Flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
-##
+<!-- ##
   
 <div>   
  
  ![snake gif](https://github.com/pauloccesar/pauloccesar/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> -->
