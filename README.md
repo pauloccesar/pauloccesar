@@ -2,7 +2,7 @@
 
 My name is Paulo Cesar. I Living in Divinópolis, Brazil.
 
-- 🔭 I’m currently working at <a href="https://www.nescara.com/site/" target="_blank">Nèscara</a> as a Software Developer;
+- 🔭 I’m currently working at <a href="https://www.globant.com/" target="_blank">Globant</a> as a Software Developer;
 - ⚡  Using MEAN Stack, most of the time: React Native;
 - 🌱 I’m currently learning Typescript;
 
